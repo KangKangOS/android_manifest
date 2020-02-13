@@ -1,7 +1,5 @@
-ExtendedUI
+KangKangOS
 ===========
-
-<img src="https://raw.githubusercontent.com/Extended-UI/android_manifest/android_10/ExtendedUI-banner.jpg"> 
 
 Getting started
 ---------------
@@ -19,7 +17,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/Extended-UI/android_manifest -b android_10
+$ repo init -u https://github.com/KangKangOS/android_manifest -b android_10
 # Download the source
 $ repo sync
 
