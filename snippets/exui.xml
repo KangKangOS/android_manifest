@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="kangui"
-          fetch="https://github.com/Extended-UI"
+          fetch="https://github.com/KangKangOS"
           revision="android_10" />
 
   <!-- Framework repos -->
